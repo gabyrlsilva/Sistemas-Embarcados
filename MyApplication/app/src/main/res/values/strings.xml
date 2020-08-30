@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="monitoramento_de_sensor">Monitoramento de Sensor</string>
+    <string name="usuario">Usuario</string>
+    <string name="estacao">estacao</string>
+    <string name="sensor">Sensor</string>
+    <string name="monitorar_sensores">monitorar_sensores</string>
+    <string name="cadastro_usuario">cadastrar_usuario</string>
+    <string name="cadastro_estacao">cadastrar_estacao</string>
+    <string name="cadastro_sensor">cadastrar_sensor</string>
+    <string name="listar_sensor">listar_sensor</string>
+    <string name="cadastro_de_usu_rios">Cadastro de Usuários</string>
+    <string name="nome_usuario">Nome:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="senha">Senha:</string>
+    <string name="perfil">Perfil:</string>
+    <string name="cadastrar_usuario">cadastrar_usuario</string>
+    <string name="cadastro_de_sensor">Cadastro de sensor</string>
+    <string name="nome_sensor">Nome:</string>
+    <string name="tipo_de_sa_da">Tipo de Saída:</string>
+    <string name="alcance">Alcance:</string>
+    <string name="unidade_medida">Unidade Medida:</string>
+    <string name="localiza_o">Localização:</string>
+    <string name="velocidade_de_resposta">Velocidade de resposta:</string>
+    <string name="status_on_off">Status (On/Off):</string>
+    <string name="cadastrar_sensor">cadastrar_sensor</string>
+    <string name="cadastro_de_esta_o">Cadastro de Estação</string>
+    <string name="descri_o">Descrição:</string>
+    <string name="nome">Nome:</string>
+    <string name="cadastrar_estacao">cadastrar_estacao</string>
+    <string name="propriet_rio">Proprietário:</string>
+    <string name="localiza_o_lat_log">Localização (lat/log):</string>
+</resources>

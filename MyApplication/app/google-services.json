@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033329364425",
+    "firebase_url": "https://monitorar-sensor.firebaseio.com",
+    "project_id": "monitorar-sensor",
+    "storage_bucket": "monitorar-sensor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033329364425:android:e28a44933fa33a2b512c18",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033329364425-7qsos50lk4avees14684g95qdm90bhr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6k7d8WZK2Tku99dvJWY1Ahk8JejMzEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033329364425-7qsos50lk4avees14684g95qdm90bhr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

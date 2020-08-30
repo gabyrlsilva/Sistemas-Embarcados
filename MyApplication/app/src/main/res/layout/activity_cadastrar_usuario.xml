@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/cadastro_de_usu_rios"
+        tools:layout_editor_absoluteY="8dp" />
+
+    <EditText
+        android:id="@+id/nome_usuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/nome"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="44dp"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/email_usuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/e_mail"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="103dp"
+        tools:layout_editor_absoluteY="100dp"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/senha_usuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/senha"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="159dp"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/perfil_usuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/perfil"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="228dp"
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/btncad_usuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cadastrar_usuario"
+        tools:layout_editor_absoluteX="166dp"
+        tools:layout_editor_absoluteY="297dp" />
+</LinearLayout>
